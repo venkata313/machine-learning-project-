@@ -1,5 +1,5 @@
 Restaurant Rating Prediction, Recommendation and Analysis
-This repo contains the files I worked on during my Machine Learning internship at Cognifyz technologies. The internship was undertaken in Jan-Feb 2024. They provided me a large dataset of restaurants and my main role for me was to build a model to predict the ratings of restaurants and gather meaningful insights from the data. My regression model achieved an accuracy of 98% and further details are listed below.
+This repo contains the files I worked on during my Machine Learning internship at Cognifyz technologies. The internship was undertaken in Jun-JUL 2025. They provided me a large dataset of restaurants and my main role for me was to build a model to predict the ratings of restaurants and gather meaningful insights from the data. My regression model achieved an accuracy of 98% and further details are listed below.
 
 Task 1
 Objective: Build a machine learning model to predict the aggregate rating of a restaurant based on other features.
