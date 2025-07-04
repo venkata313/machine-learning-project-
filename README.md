@@ -23,10 +23,11 @@ Task 2
 Objective: Create a restaurant recommendation system based on user preferences.
 
 Steps:
-        Preprocess the dataset by handling missing values and encoding categorical variables.
-        Determine the criteria for restaurant recommendations (e.g., cuisine preference, price range).
-        Implement a content-based filtering approach where users are recommended restaurants similar to their preferred criteria.
-        Test the recommendation system by providing sample user preferences and evaluating the quality of recommendations.
+
+Preprocess the dataset by handling missing values and encoding categorical variables.
+Determine the criteria for restaurant recommendations (e.g., cuisine preference, price range).
+Implement a content-based filtering approach where users are recommended restaurants similar to their preferred criteria.
+Test the recommendation system by providing sample user preferences and evaluating the quality of recommendations.
 
 
 
@@ -34,11 +35,12 @@ Task 3
 Objective: Develop a machine learning model to classify restaurants based on their cuisines.
 
 Steps:
-        Preprocess the dataset by handling missing values and encoding categorical variables.
-        Split the data into training and testing sets.
-        Select a classification algorithm (e.g., logistic regression, random forest) and train it on the training data.
-        Evaluate the model's performance using appropriate classification metrics (e.g., accuracy, precision, recall) on the testing data.
-        Analyze the model's performance across different cuisines and identify any challenges or biases.
+
+Preprocess the dataset by handling missing values and encoding categorical variables.
+Split the data into training and testing sets.
+Select a classification algorithm (e.g., logistic regression, random forest) and train it on the training data.
+Evaluate the model's performance using appropriate classification metrics (e.g., accuracy, precision, recall) on the testing data.
+Analyze the model's performance across different cuisines and identify any challenges or biases.
 
 
 
@@ -47,10 +49,11 @@ Task 4
 Objective: Perform a geographical analysis of the restaurants in the dataset.
 
 Steps:
-        Explore the latitude and longitude coordinates of the restaurants and visualize their distribution on a map.
-        Group the restaurants by city or locality and analyze the concentration of restaurants in different areas.
-        Calculate statistics such as the average ratings, cuisines, or price ranges by city or locality.
-        Identify any interesting insights or patterns related to the locations of the restaurants.
+
+Explore the latitude and longitude coordinates of the restaurants and visualize their distribution on a map.
+Group the restaurants by city or locality and analyze the concentration of restaurants in different areas.
+Calculate statistics such as the average ratings, cuisines, or price ranges by city or locality.
+Identify any interesting insights or patterns related to the locations of the restaurants.
 
 
 Dataset
